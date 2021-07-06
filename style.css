@@ -1,0 +1,173 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+    color: rgb(116, 102, 102);
+    
+    
+}
+
+#welcome-color{
+    color: crimson;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 128, 38),rgb(173, 255, 105));
+    color: white;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.first-part{
+    width: 50%;
+    padding-left: 2%;
+    padding-bottom: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.first-part img{
+    width: 110%;
+}
+.first-part-flex{
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(images/food2.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 2%;
+    background-position: left;
+}
+
+
+#about{
+    color: rgb(45, 85, 146);
+}
+
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,pink);
+    color: white;
+    font-weight: 500;
+    padding: 10px 25px;
+    border-radius: 5px;
+    
+
+
+}
+
+.second-part-flex{
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(images/lebu2.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 2%;
+    background-position: left;
+
+}
+
+
+.recipi-text{
+    text-align: center;
+}
+#recipi-color{
+    color: rgb(13, 185, 228);
+    
+}
+
+
+
+.title-color{
+    color: green;
+
+}
+
+.image-area{
+    
+    height: 200px;
+    width: 300px;
+    border-radius: 10%;
+    border-bottom: 10px;
+    
+}
+
+.image-box{
+    
+    margin-bottom: 10px;
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5%;
+    padding-right: 10px;
+    box-shadow: 5px 10px 10px 10px yellowgreen;
+    width: 30%;
+    border-radius: 50px 30px 30px 30px;
+    padding-top: 20px;
+    
+    
+    
+}
+
+
+.flex-container{
+    display: flex;
+    margin-bottom: 300px;
+    margin-top: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+
+}
+
+
+#food-color{
+    color: thistle;
+    
+}
+.food-text{
+    text-align: center;
+    background-image: url(images/foot.jpg);
+    background-position: 400px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+    
+}
+#font-color{
+    color: thistle;
+}
+.website-color{
+    color: wheat;
+}
+
+.subscriber{
+    display: flex;
+    margin-bottom: 300px;
+    margin-left: 50px;
+    margin-top: 100px;
+
+    
+    
+}
+.text-center{
+    
+    margin-left: 200px;
+    margin-right: 100px;
+    box-shadow: 5px 5px 5px 5px rgb(231, 224, 226);
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;   
+    
+}
+.p-text{
+    font-size: 50px;
+    font-weight: 100;
+}
